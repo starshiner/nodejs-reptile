@@ -1,0 +1,18 @@
+{
+  "name": "reptile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "bufferhelper": "^0.2.1",
+    "cheerio": "^0.20.0",
+    "iconv-lite": "^0.4.13",
+    "superagent": "^1.7.2"
+  }
+}
